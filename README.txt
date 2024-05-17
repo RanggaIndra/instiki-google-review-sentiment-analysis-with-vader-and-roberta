@@ -1,4 +1,4 @@
-**Hei everyone!**
+HEI EVERYONE!
 
 On This project, I tried to do Sentiment Analysis on INSTIKI Google Maps Review, which, it is my campuss.
 
